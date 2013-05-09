@@ -1,0 +1,10 @@
+/** ADMIN STYLES **/
+
+.biz_extras div {
+	margin: 10px;
+}
+
+.biz_extras div label {
+	width: 100px;
+	float: left;
+}
